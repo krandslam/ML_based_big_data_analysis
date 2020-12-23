@@ -6,7 +6,7 @@ File description:
 - Ex01.R: R code that analyzes the text
 - word_cloud.jpg: result of analysis  
 
-The word cloud result follows below.
+Word cloud image
 --------------
 ![word_cloud](./word_cloud.jpg)
 
