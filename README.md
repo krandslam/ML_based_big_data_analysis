@@ -6,8 +6,11 @@ It is run by [Smart Human Resources Development](https://www.smhrd.or.kr/), whic
 The brief descriptions of data analysis practices done in class follow below.  
 Analysis results and files are located at corresponding date folder (day#).
 
-## Day 1
+### Day 1
 [Kaggle titanic](https://www.kaggle.com/c/titanic) analysis with excel
 
-## Day 2
+### Day 2
 Textmining and WordCloud with R
+
+### Day 3
+Textmining and WordCloud with R + data preprocessing + data cleansing
