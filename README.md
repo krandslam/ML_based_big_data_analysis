@@ -4,7 +4,7 @@ This course is hosted by [Ministry of Employment and Labor](http://www.moel.go.k
 It is run by [Smart Human Resources Development](https://www.smhrd.or.kr/), which is located at Gwangju, Korea.  
 
 The brief descriptions of data analysis practices done in class follow below.  
-Analysis results and files are located at corresponding date folder (day#).
+Analysis results and files are located at corresponding date folder (day#).  
 Further details are explained in README.md of each folder.  
 
 ### Day 1
