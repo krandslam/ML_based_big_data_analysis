@@ -13,4 +13,4 @@ Analysis results and files are located at corresponding date folder (day#).
 Textmining and WordCloud with R
 
 ### Day 3
-Textmining and WordCloud with R + data preprocessing + data cleansing
+Textmining and WordCloud with R + data preprocessing (cleansing)
