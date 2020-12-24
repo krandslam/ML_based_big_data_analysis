@@ -6,5 +6,5 @@ The generated word cloud is wordcloud_review_original.JPG.
 
 Original word cloud
 -------------
-![word_cloud_org](./wordcloud_review_original.jpg)
+![wordcloud_review_original](./wordcloud_review_original.jpg)
 
