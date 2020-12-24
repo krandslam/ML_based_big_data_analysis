@@ -1,5 +1,4 @@
-The goal of this excercise is to analyze further generalized and bigger sized texts (more than 20000 lines) rather than formal and short texts like speech.  
-Web crawled movie review data(review.txt) is used here to analyze.  
+The goal of this excercise is to analyze further generalized and bigger sized texts (more than 20000 lines) rather than formal and short texts like speech. Web crawled movie review data(review.txt) is used here to analyze.  
 
 Ex02.R analyzes the data without data preprocessing.  
 The generated word cloud follow below.
@@ -20,3 +19,11 @@ Word cloud after 3 steps
 ----------
 ![wordcloud_review_freqg5](./wordcloud_review_freqg5.JPG)
 
+Still, some words that had low frequency of usage was not clearly distributed.  
+Therefore, another data preprocessing procedure sorted Top50 frequently used words.  
+head function was used to sort top 50 words.  
+The result follows below.  
+
+Top 50 word cloud
+-------------
+![wordcloud_review_freqg5](./wordcloud_review_top50.JPG.JPG)
