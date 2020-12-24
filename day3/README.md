@@ -20,8 +20,8 @@ Word cloud after 3 steps
 ----------
 ![wordcloud_review_freqg5](./wordcloud_review_freqg5.JPG)
 
-Still, some words that had low frequency of usage was hard to identify.  
-Therefore, another data preprocessing procedure was needed. 
+Still, some words that had low frequency of usage were hard to identify.  
+Therefore, another data preprocessing procedure was needed.  
 The procedure used head function to sort top 50 words.  
 The result follows below.  
 
