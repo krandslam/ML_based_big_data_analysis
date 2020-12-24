@@ -20,9 +20,9 @@ Word cloud after 3 steps
 ----------
 ![wordcloud_review_freqg5](./wordcloud_review_freqg5.JPG)
 
-Still, some words that had low frequency of usage was not clearly distributed.  
-Therefore, another data preprocessing procedure sorted Top50 frequently used words.  
-Head function was used to sort top 50 words.  
+Still, some words that had low frequency of usage was hard to identify.  
+Therefore, another data preprocessing procedure was needed. 
+The procedure used head function to sort top 50 words.  
 The result follows below.  
 
 Top 50 word cloud
