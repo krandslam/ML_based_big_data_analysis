@@ -26,4 +26,4 @@ The result follows below.
 
 Top 50 word cloud
 -------------
-![wordcloud_review_freqg5](./wordcloud_review_top50.JPG.JPG)
+![wordcloud_review_top50](./wordcloud_review_top50.JPG)
