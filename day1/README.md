@@ -10,7 +10,7 @@ pivot chart (gender)
 
 gender_submission.csv has a result that females survive and males do not survive.  
 It was calculated in excel formula at test.csv, =IF(D2="female",1,0)  
-This calculated can be copied and pasted to submission file to submit.  
+This result was copied and pasted to submission file to submit.  
 Submitted result on kaggle follows below.
 
 kaggle submission result (gender)
