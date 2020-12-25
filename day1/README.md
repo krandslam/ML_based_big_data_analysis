@@ -39,5 +39,5 @@ The result improved to 77.551%.
 
 To further improve accuracy, the attempt was made to add more conditional statements with 77.551% accuracy statement.  
 This attempt did not improve further accuracy, and it even lowered the accuracy to 60%.  
-At first, it made no sense to decrease the accuracy.
+At first, it made no sense to decrease the accuracy.  
 However, in later class, the term overfitting data was introduced and found that this was the reason why the accuracy got lower with this attempt.  
