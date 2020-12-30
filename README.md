@@ -15,3 +15,6 @@ Textmining and WordCloud with R
 
 ### Day 3
 Textmining and WordCloud with R + data preprocessing (cleansing)
+
+### Day 4
+How to preprocess structured data
