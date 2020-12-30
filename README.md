@@ -17,4 +17,4 @@ Textmining and WordCloud with R
 Textmining and WordCloud with R + data preprocessing (cleansing)
 
 ### Day 4
-How to preprocess structured data
+How to preprocess structured data with dplyr package
