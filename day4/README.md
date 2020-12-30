@@ -1,4 +1,4 @@
-THe goal of this exercise is to preprocess structured data by dplyr package.  
+The goal of this exercise is to preprocess structured data by dplyr package.  
 Functions from the package that are used follow below.  
 filter(), select(), arrange(), mutate(), summarise(), group_by()  
 
