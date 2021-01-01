@@ -19,4 +19,4 @@ After pruning, prediction was done with predict function.
 To evalute prediction result, Kappa coefficient was calculated.  
 ![stats](./accuracy_stats.jpg)
 
-From the diagram above, accuracy was 80% and Kappa coefficient was 0.75, which shows the model is quite accurate in prediction.    
+From the diagram above, accuracy was 80% and Kappa coefficient was 0.75, which shows that the model is quite accurate in prediction.    
