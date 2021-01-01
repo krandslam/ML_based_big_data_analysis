@@ -1,7 +1,7 @@
 The goal of this practice is to predict the type of apple from the information in apple.csv  
 apple.csv contains weight, sugar content, acid, color information of 25 apples, and 5 apples exist for each model.  
 
-First, to understand data average weight, sugar contetn, acid were calculated for each model.  
+First, to understand data, average weight, sugar contetn, acid were calculated for each model.  
 It was hard to establish a model that can easily distinguish apple, because the data calculated(average) did not differ much for each mode.  
 
 So, machine learning was introduced to let computer predict a type of apple after training.  
