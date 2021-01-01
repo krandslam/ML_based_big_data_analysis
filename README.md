@@ -21,3 +21,9 @@ How to preprocess structured data with dplyr package
 
 ### Day 5
 Use machine learning to predict classification problem
+
+### Day 6
+Chap1. Python basic
+
+### Day 7
+Chap2. Operator
