@@ -18,3 +18,6 @@ Textmining and WordCloud with R + data preprocessing (cleansing)
 
 ### Day 4
 How to preprocess structured data with dplyr package
+
+### Day 5
+Use machine learning to predict classification problem
