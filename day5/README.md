@@ -8,16 +8,12 @@ So, machine learning was introduced to let computer predict the type of apple af
 Train data and test data were split into 8:2. 
 rpart package was used for this classification problem.  
 Decision tree obtained after training follows below.
-![apple_dec](./apple_decision_tree.jpg)
-
-
+![apple_dec](./apple_decision_tree.jpg)  
 
 To prevent overfitting, pruning was conducted.  
 Complexity parameter for pruning function was found by plotcp function.  
 ![cp](./plot_cp.jpg)
 Since cp with 0.018 had the lowest relative error, pruning was done with cp = 0.018 to improve accuracy.  
-
-
 
 After pruning, prediction was done with predict function.  
 To evalute prediction result, Kappa coefficient was calculated.  
