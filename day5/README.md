@@ -13,7 +13,7 @@ Decision tree obtained after training follows below.
 To prevent overfitting, pruning was conducted.  
 Complexity parameter for pruning function was found by plotcp function.  
 ![cp](./plot_cp.jpg)
-Since cp with 0.018 had the lowest X-val Relative error, pruning was done with cp = 0.018 to improve accuracy.  
+Since cp with 0.018 had the lowest relative error, pruning was done with cp = 0.018 to improve accuracy.  
 
 After pruning, prediction was done with predict function.  
 To evalute prediction result, Kappa coefficient was calculated.  
