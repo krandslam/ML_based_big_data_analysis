@@ -27,3 +27,6 @@ Chap1. Python basic
 
 ### Day 7
 Chap2. Operator
+
+### Day 8
+Chap3. Conditional statement
