@@ -1,4 +1,4 @@
-The goal of chapter 6 was to learn about anoother data structure in python called dictionary.  
+The goal of chapter 6 was to learn about another data structure in python called dictionary.  
 Instead of index in list or tuple, key was used to access data(value in dictionary).  
 So, key is not editable and cannot be duplicated.  
 
