@@ -30,3 +30,11 @@ Chap2. Operator
 
 ### Day 8
 Chap3. Conditional statement
+
+### Day 9
+Chap4. List and tuple
+Chap5. iteration
+
+### Day 8
+Chap6. Dictionary
+Chap7. Function and module
