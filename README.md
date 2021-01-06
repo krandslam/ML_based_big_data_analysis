@@ -32,9 +32,9 @@ Chap2. Operator
 Chap3. Conditional statement
 
 ### Day 9
-Chap4. List and tuple
-Chap5. iteration
+Chap4. List and tuple  
+Chap5. Iteration
 
 ### Day 8
-Chap6. Dictionary
+Chap6. Dictionary  
 Chap7. Function and module
