@@ -35,6 +35,6 @@ Chap3. Conditional statement
 Chap4. List and tuple  
 Chap5. Iteration
 
-### Day 8
+### Day 10
 Chap6. Dictionary  
 Chap7. Function and module
