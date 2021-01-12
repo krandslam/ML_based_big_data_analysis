@@ -38,3 +38,17 @@ Chap5. Iteration
 ### Day 10
 Chap6. Dictionary  
 Chap7. Function and module
+
+### Day 11
+Chap8. Numpy
+
+### Day12
+Chap9. Pandas
+
+### Day13
+Chap9. Pandas  
+ML basic - and_xor / BMI data analysis
+
+### Day 14
+Chap10. Matplotlib  
+ML basic - Iris data analysis
