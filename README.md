@@ -42,10 +42,10 @@ Chap7. Function and module
 ### Day 11
 Chap8. Numpy
 
-### Day12
+### Day 12
 Chap9. Pandas
 
-### Day13
+### Day 13
 Chap9. Pandas  
 ML basic - and_xor / BMI data analysis
 
